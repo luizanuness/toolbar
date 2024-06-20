@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_alunos"
+        android:title="Alunos" />
+    <item
+        android:id="@+id/menu_professores"
+        android:title="Professores" />
+    <item
+        android:id="@+id/menu_turmas"
+        android:title="Turmas" />
+    <item
+        android:id="@+id/menu_sair"
+        android:title="Sair" />
+</menu>

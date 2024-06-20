@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">toolbar</string>
+    <string name="title_activity_listagem_professor">ListagemProfessor</string>
+</resources>
